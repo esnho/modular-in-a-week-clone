@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="PHOBos RND Gate.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="63.578297"
+     inkscape:cy="339.61404"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1192"
+     inkscape:window-y="318"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3715" />
+    <sodipodi:guide
+       position="15,14.25"
+       orientation="0,1"
+       id="guide4522"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="7.5,3"
+       orientation="0,1"
+       id="guide4524"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="7.5,125.5"
+       orientation="0,1"
+       id="guide4528"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15,114.25"
+       orientation="0,1"
+       id="guide4530"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15,118.5"
+       orientation="0,1"
+       id="guide4532"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,7)" />
+    <sodipodi:guide
+       position="12.5,103.5"
+       orientation="0,1"
+       id="guide4534"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,1)" />
+    <sodipodi:guide
+       position="15,88.5"
+       orientation="0,1"
+       id="guide4540"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15,73.5"
+       orientation="0,1"
+       id="guide4542"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15,29.25"
+       orientation="0,1"
+       id="guide4544"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="12.5,81"
+       orientation="0,1"
+       id="guide1443"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-11.492589,58.5"
+       orientation="0,1"
+       id="guide4515"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-4.5435818,43.5"
+       orientation="0,1"
+       id="guide4517"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect3713"
+       width="24.886921"
+       height="128.57693"
+       x="0.056539301"
+       y="168.36655"
+       style="fill:none;stroke:#ff0000;stroke-width:0.11307861;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4526"
+       cx="7.5"
+       cy="294"
+       r="1.6" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.18304431;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4536"
+       cx="12.499574"
+       cy="178.72864"
+       r="2.4084778" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4538"
+       cx="12.594574"
+       cy="193.63362"
+       r="3.5999999" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4552"
+       cx="12.594574"
+       cy="238.43347"
+       r="3" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#010000;stroke-width:0.20894702;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4554"
+       width="23.433132"
+       height="27.428793"
+       x="0.72533661"
+       y="201.57901" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4550"
+       cx="12.594574"
+       cy="223.4339"
+       r="3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.727784"
+       y="206.6467"
+       id="text4611"><tspan
+         sodipodi:role="line"
+         id="tspan4609"
+         x="12.471925"
+         y="206.6467"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">RND </tspan><tspan
+         sodipodi:role="line"
+         x="12.471925"
+         y="211.93837"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4511">Gate </tspan><tspan
+         sodipodi:role="line"
+         x="11.727784"
+         y="217.23003"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4513">Out</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.3365393"
+       y="186.65388"
+       id="text4621"><tspan
+         sodipodi:role="line"
+         id="tspan4619"
+         x="1.3365393"
+         y="186.65388"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Probability</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.0142093"
+       y="233.5013"
+       id="text4625"><tspan
+         sodipodi:role="line"
+         id="tspan4623"
+         x="2.0142093"
+         y="233.5013"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Noise Out</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.5438995"
+       y="295.4881"
+       id="text4629"><tspan
+         sodipodi:role="line"
+         id="tspan4627"
+         x="9.5438995"
+         y="295.4881"
+         style="font-size:4.23333311px;stroke-width:0.26458332">MiaW</tspan></text>
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#fc0000;stroke-width:0.22056222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4631"
+       cx="7.5"
+       cy="171.5"
+       r="1.6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777778px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="12.437214"
+       y="267.16504"
+       id="text4635"><tspan
+         sodipodi:role="line"
+         x="12.437214"
+         y="267.16504"
+         style="font-size:2.82222222px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4637"
+         dy="0 0 0.02">PHOBos</tspan><tspan
+         sodipodi:role="line"
+         x="12.437214"
+         y="271.57477"
+         style="font-size:2.82222222px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         dy="0 0 0 0 0 0 0 0 0 0 0.02"
+         id="tspan4509">RND GATE</tspan></text>
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#fc0000;stroke-width:0.22056222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1445"
+       cx="12.5"
+       cy="253.4422"
+       r="2.95" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.8645763"
+       y="248.743"
+       id="text1449"><tspan
+         sodipodi:role="line"
+         id="tspan1447"
+         x="4.8645763"
+         y="248.743"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Int Src</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.890609"
+       y="261.21515"
+       id="text1453"><tspan
+         sodipodi:role="line"
+         x="11.890609"
+         y="261.21515"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4534">Ext Src</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="-57.86385"
+       y="242.20975"
+       id="text3833"><tspan
+         sodipodi:role="line"
+         id="tspan3831"
+         x="-57.86385"
+         y="251.86525"
+         style="stroke-width:0.26458332;font-size:4.23333333px;" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-37.685001"
+       y="201.58476"
+       id="text9013"><tspan
+         sodipodi:role="line"
+         id="tspan9011"
+         x="-37.685001"
+         y="211.24026"
+         style="stroke-width:0.26458332" /></text>
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4552-3"
+       cx="12.594574"
+       cy="282.75"
+       r="3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.7462974"
+       y="278.55841"
+       id="text4544"><tspan
+         sodipodi:role="line"
+         id="tspan4542"
+         x="5.7462974"
+         y="278.55841"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Src In</tspan></text>
+  </g>
+</svg>

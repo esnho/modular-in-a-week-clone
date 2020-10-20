@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="4046 Simple VCO_20mm_with_cvamount.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-38.218768"
+     inkscape:cy="243.97127"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1192"
+     inkscape:window-y="318"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3715" />
+    <sodipodi:guide
+       position="15,14.25"
+       orientation="0,1"
+       id="guide4522"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="7.5,3"
+       orientation="0,1"
+       id="guide4524"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="7.5,125.5"
+       orientation="0,1"
+       id="guide4528"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15,114.25"
+       orientation="0,1"
+       id="guide4530"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15,118.5"
+       orientation="0,1"
+       id="guide4532"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,7)" />
+    <sodipodi:guide
+       position="12.5,103.5"
+       orientation="0,1"
+       id="guide4534"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,1)" />
+    <sodipodi:guide
+       position="15,88.5"
+       orientation="0,1"
+       id="guide4540"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15,73.5"
+       orientation="0,1"
+       id="guide4542"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15,29.25"
+       orientation="0,1"
+       id="guide4544"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="10,65.481036"
+       orientation="1,0"
+       id="guide2196"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect3713"
+       width="19.898882"
+       height="128.5889"
+       x="0.050559107"
+       y="168.36057"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.10111822;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4526"
+       cx="7.5"
+       cy="294"
+       r="1.6" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4538"
+       cx="10.082377"
+       cy="189.9295"
+       r="3.5999999" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4552"
+       cx="10.077006"
+       cy="279.70859"
+       r="3" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#010000;stroke-width:0.20468162;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4554-6"
+       width="18.455343"
+       height="33.41951"
+       x="0.74198771"
+       y="236.11897" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4550"
+       cx="10.077006"
+       cy="264.70859"
+       r="3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.7310216"
+       y="259.56274"
+       id="text4611"><tspan
+         sodipodi:role="line"
+         id="tspan4609"
+         x="2.7310216"
+         y="259.56274"
+         style="font-size:5.64444447px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">CV in</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.9823728"
+       y="182.94977"
+       id="text4621"><tspan
+         sodipodi:role="line"
+         id="tspan4619"
+         x="3.9823728"
+         y="182.94977"
+         style="font-size:5.64444447px;stroke-width:0.26458332">Freq</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.9273124"
+       y="274.77628"
+       id="text4625"><tspan
+         sodipodi:role="line"
+         id="tspan4623"
+         x="4.9273124"
+         y="274.77628"
+         style="font-size:5.64444447px;stroke-width:0.26458332">Out</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.7813997"
+       y="290.19644"
+       id="text4629"><tspan
+         sodipodi:role="line"
+         id="tspan4627"
+         x="4.7813997"
+         y="290.19644"
+         style="font-size:4.23333311px;stroke-width:0.26458332">MiaW</tspan></text>
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#fc0000;stroke-width:0.22056222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4631"
+       cx="7.5"
+       cy="171.5"
+       r="1.6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10.454184"
+       y="223.53"
+       id="text4635"><tspan
+         sodipodi:role="line"
+         x="10.454184"
+         y="223.53"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4639">4046</tspan><tspan
+         sodipodi:role="line"
+         x="10.454184"
+         y="228.82167"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan2156">Simple</tspan><tspan
+         sodipodi:role="line"
+         x="10.454184"
+         y="234.11333"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4637">VCO</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#010000;stroke-width:0.17056279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4554-6-1"
+       width="18.489462"
+       height="23.163754"
+       x="0.72492826"
+       y="195.5388" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4550-9"
+       cx="10.077003"
+       cy="213.37947"
+       r="3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10.092331"
+       y="201.35454"
+       id="text4611-5"><tspan
+         sodipodi:role="line"
+         id="tspan4609-7"
+         x="10.092331"
+         y="201.35454"
+         style="font-size:5.64444447px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Signal</tspan><tspan
+         sodipodi:role="line"
+         x="10.092331"
+         y="208.4101"
+         style="font-size:5.64444447px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2194">In</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777778px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="9.9435625"
+       y="239.61539"
+       id="text4799"><tspan
+         sodipodi:role="line"
+         id="tspan4797"
+         x="9.9435625"
+         y="239.61539"
+         style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332;">CV</tspan><tspan
+         sodipodi:role="line"
+         x="9.9435625"
+         y="245.789"
+         style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332;"
+         id="tspan885">amount</tspan></text>
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.19000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4567-58"
+       cx="9.9987507"
+       cy="249.38837"
+       r="3.6000004" />
+  </g>
+</svg>
